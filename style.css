@@ -1,0 +1,326 @@
+.nav{position: absolute;
+width: 1240px;
+height: 70px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+border-bottom: 8px solid #000000;}
+.ind{position: absolute;
+    width: 122px;
+    height: 38px;
+    left: 588px;
+    top: 15px;
+    margin-top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    /* identical to box height */
+    
+    text-transform: capitalize;
+    
+    color: #007DFC;}
+.sol{position: absolute;
+    width: 213px;
+    height: 38px;
+    left: 760px;
+    top: 15px;
+    margin-top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    /* identical to box height */
+    
+    text-transform: capitalize;
+    
+    color: #007DFC;
+    }
+.res{position: absolute;
+    width: 129px;
+    height: 38px;
+    left: 925px;
+    top: 15px;
+    margin-top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    /* identical to box height */
+    
+    text-transform: capitalize;
+    
+    color: #007DFC;}
+.con{
+    position: absolute;
+    width: 139px;
+    height: 38px;
+   left: 1100px;
+   top: 15px;
+   margin-top: 0px;
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+/* identical to box height */
+
+    text-transform: capitalize;
+
+    color: #010222;
+
+} 
+.logo{position: absolute;
+    width: 175px;
+    height: 50px;
+    top: 15px;
+    left: 15px;
+    }
+.frame1{position: absolute;
+    width: 1240px;
+    height: 700px;
+    left: 0px;
+    top: 75px;
+    box-sizing: border-box;
+
+    background: linear-gradient(109.42deg, #FFFFFF 15.31%, #007DFC 112.6%, #000000 112.61%);
+    border: 1px solid #000000;
+}
+.reveal{position: absolute;
+    width: 900px;
+    height: 135px;
+    left: 180px;
+    top: 140px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 72px;
+    text-align: center;
+    text-transform: capitalize;
+    
+    color: #000000;
+    }
+.group1{position: absolute;
+    width: 431px;
+    height: 10px;
+    left: 250px;
+    top: 433px;
+    }    
+.group2{position: absolute;
+    width: 300px;
+    height: 95px;
+    left: 655px;
+    top: 435px;
+ 
+    }    
+.imgstyle1{width: 320px;}
+.imgstyle2{width: 380px;}
+.SESAMm{position: absolute;
+    width: 931px;
+    height: 72px;
+    left: 168px;
+    top: 305px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: capitalize;
+    
+    color: #000000;}
+.frame2{position: absolute;
+    width: 1137px;
+    height: 800px;
+    left: 51px;
+    top: 920px;
+    
+    background: #010222;
+    border-radius: 50px;}
+.power{    position: absolute;
+    width: 929px;
+    height: 66px;
+    left: 160px;
+    top: 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 156%;
+    letter-spacing: 0.18em;
+    text-transform: capitalize;
+    color: #FFFFFF;}
+.platform{position: absolute;
+    width: 1128px;
+    height: 66px;
+        left: 9px;
+        top: 90px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 189%;
+    /* or 38px */
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #FFFFFF;
+    }    
+.graph1{
+    position: absolute;
+    width: 475px;
+    height: 581.22px;
+    left: 113.27px;
+    top: 200px;}
+.grp26{
+    position: absolute;
+width: 420px;
+height: 160px;
+left: 670px;
+top: 245px;
+
+}    
+.grp27{
+    position: absolute;
+width: 420px;
+height: 160px;
+left: 670px;
+top: 400px;
+}
+.grp28{
+    position: absolute;
+width: 420px;
+height: 160px;
+left: 670px;
+top: 550px;
+}
+
+.textre{
+    position: absolute;
+    width: 645px;
+    height: 136px;
+    left: 55px;
+    top: 1750px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 188.5%;
+    /* or 68px */
+
+    color: #000000;
+
+}
+.leader{position: absolute;
+    width: 475px;
+    height: 108px;
+    left: 700px;
+    top: 1775px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 190.5%;
+    /* or 36px */
+    
+    
+    color: #000000;
+    }
+.frame5{
+    position: absolute;
+    width: 1100px;
+    height: 604px;
+    left: 51px;
+    top: 1900px;
+}   
+.grp11{position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 600px;
+    top: 2475px;
+    }
+.multi{
+    
+position: absolute;
+width: 500px;
+height: 112px;
+left: 90px;
+top: 2550px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 52px;
+
+color: #000000;
+
+}
+.email{
+    position: absolute;
+    width: 550px;
+    height: 182px;
+    left: 90px;
+    top: 2700px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 50px;
+    
+    color: #000000;
+    }
+.wire1{
+    
+position: absolute;
+width: 500px;
+height: 415px;
+left: 700px;
+top: 2550px;
+
+}
+.wire2{position: absolute;
+    width: 500px;
+    height: 415px;
+    left: 51px;
+    top: 3000px;
+    }
+.machine{
+    position: absolute;
+    width: 500px;
+    height: 242px;
+    left: 633px;
+    top: 3025px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 52px;
+    /* or 30px */
+    
+    letter-spacing: 0.035em;
+    
+    color: #000000;}
+.gain{position: absolute;
+    width: 550px;
+    height: 242px;
+    left: 633px;
+    top: 3150px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    letter-spacing: 0.035em;
+    
+    color: #000000;
+    }
